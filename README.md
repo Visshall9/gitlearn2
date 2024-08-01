@@ -1,2 +1,2 @@
 # gitlearn
-learning all about git
+learning all about git through youtube
